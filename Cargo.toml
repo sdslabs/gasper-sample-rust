@@ -1,0 +1,9 @@
+[package]
+name = "gasper-sample-rust"
+version = "0.1.0"
+authors = ["alphadose <anish.mukherjee1996@gmail.com>"]
+edition = "2018"
+
+[dependencies.nickel]
+version = "*"
+
